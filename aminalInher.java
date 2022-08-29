@@ -1,3 +1,4 @@
+// inheretence class -->>
 public class aminalInher 
 {
     void eat()
